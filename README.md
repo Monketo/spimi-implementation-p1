@@ -176,8 +176,8 @@ This class is the main class used to run the project. In order:
 
 
 ## Sample Project Queries
-*AND query 'Jimmy AND Carter' result:* [12136, 13540, 17023, 18005, 19432, 20614]\n
-*AND query 'Green AND Party' result:* [10230, 21577]\n
-*AND query 'Innovations AND in AND telecommunication' result:* []\n
+*AND query 'Jimmy AND Carter' result:* [12136, 13540, 17023, 18005, 19432, 20614] <br />
+*AND query 'Green AND Party' result:* [10230, 21577] <br />
+*AND query 'Innovations AND in AND telecommunication' result:* [] <br />
 
 ***Alessandro Rodi*** 2017
